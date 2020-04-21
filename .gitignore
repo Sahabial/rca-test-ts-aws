@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/rca-yarn-ts.iml
+/.idea/vcs.xml
+/.idea/inspectionProfiles/
+/.idea/
