@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React FASTER AND FASTER
+          Learn React FASTER AND FASTER with Cloudfront
         </a>
       </header>
     </div>
