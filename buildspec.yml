@@ -17,10 +17,9 @@ phases:
   build:
     commands:
       - yarn build
-      -
 artifacts:
   files:
-    - $APPLICATION_PATH/build/**/*
+    - ./build/**/*
   discard-paths: yes
 
 cache:
