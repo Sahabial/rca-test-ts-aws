@@ -20,7 +20,7 @@ phases:
 artifacts:
   files:
     - ./build/**/*
-  discard-paths: yes
+  discard-paths: no
 
 cache:
   paths:
