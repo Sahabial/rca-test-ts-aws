@@ -49,6 +49,8 @@ rebase changes test
 
 branch changes 1
 
+br change 2
+
 master change 1
 
 master change 2
