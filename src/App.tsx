@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Test disable travis
+          Cloudfront test
         </a>
       </header>
     </div>
